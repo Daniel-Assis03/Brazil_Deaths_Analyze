@@ -1,1 +1,1 @@
-pipreqs C:\Users\User\Desktop\Death Analyze\Streamlit Code
+pipreqs C:\Users\User\Desktop\Death Analyze\Streamlit Code\deaths.py
