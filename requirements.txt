@@ -1,1 +1,3 @@
-pipreqs C:\Users\User\Desktop\Death Analyze\Streamlit Code\deaths.py
+pandas==1.1.5
+streamlit==0.73
+numpy==1.16
