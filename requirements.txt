@@ -1,0 +1,1 @@
+pipreqs <C:\Users\User\Desktop\Death Analyze\Streamlit Code>
